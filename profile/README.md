@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../img/cryptobyte_big.svg" alt="Cryptobyte Logo">
+  <img src="https://github.com/Cryptobyte-Team/.github/raw/main/img/cryptobyte_big.svg" alt="Cryptobyte Logo">
 </div>
 
 <br />
