@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="../img/cryptobyte_big.svg" alt="Cryptobyte Logo">
+</div>
+
+<br />
+
 <p align="center">
   <a href="https://cryptobyte.dev">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&color=33FF33&size=30&center=true&vCenter=true&width=500&height=100&lines=Software+Developers;DevOps+Engineers;Security+Experts">
